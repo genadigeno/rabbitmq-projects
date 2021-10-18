@@ -1,5 +1,5 @@
 # rabbitmq-projects
-RabbitMQ
+Simple Chat Room Application written in Java using RabbitMQ
 
 # Commands
 
@@ -10,6 +10,9 @@ RabbitMQ
 
 # leave the room
 -cmd leave room
+
+# show the available rooms
+-cmd show rooms
 
 # exit from program
 -cmd exit
